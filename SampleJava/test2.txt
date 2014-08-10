@@ -4,5 +4,6 @@ feature-D
 feature-A
 
 fix-B
+feature-A
 
 
